@@ -45,4 +45,4 @@ To deploy your own version of this page:
 5. Your site will be live at `https://<your-username>.github.io/<repo-name>/`.
 
 ---
-*Developed with ❤️ by [razihafitz1-rh](https://github.com/razihafitz1-rh) and Claude Code.*
+*Developed by [razihafitz1-rh](https://github.com/razihafitz1-rh) and Claude Code.*
