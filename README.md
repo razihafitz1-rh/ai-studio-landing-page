@@ -1,26 +1,26 @@
-# 🚀 AI Studio Landing Page
+#  AI Studio Landing Page
 
 A futuristic, high-converting landing page for **AI Studio**, designed for the modern creator. This project showcases a sleek dark-themed interface with a mix of Purple, Blue, and Cyan accents, utilizing a modern glassmorphism design.
 
 ## 🌐 Live Demo
 Check out the live website here:
-👉 **[https://razihafitz1-rh.github.io/ai-studio-landing-page/](https://razihafitz1-rh.github.io/ai-studio-landing-page/)**
+**[https://razihafitz1-rh.github.io/ai-studio-landing-page/](https://razihafitz1-rh.github.io/ai-studio-landing-page/)**
 
 ---
 
-## ✨ Features
+##  Features
 - **Dark Mode Aesthetic**: Deep slate background with vibrant neon accents.
 - **Glassmorphism**: Semi-transparent cards with blur effects for a premium feel.
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
 - **Interactive Mockup**: Includes an AI-powered design canvas demo.
 - **Modern Stack**: Built with HTML5 and Tailwind CSS.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Fonts**: Space Grotesk (Headings) & DM Sans (Body)
 - **Deployment**: GitHub Pages
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 If you want to run this project on your own machine:
 
@@ -35,7 +35,7 @@ If you want to run this project on your own machine:
 3. **Open the file**:
    Simply open `index.html` in any modern web browser.
 
-## 📖 Deployment Guide (GitHub Pages)
+## Deployment Guide (GitHub Pages)
 
 To deploy your own version of this page:
 1. Upload your files to a GitHub repository.
